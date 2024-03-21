@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sherri Kelly
-- 👀 I’m interested in learning more about .Net 7 and Microservices
-- 🌱 I’m currently learning and implementing .Net 6 and various architecture patterns for APIs and Microservices. 
+- 👀 I’m interested in learning more about .Net 8 APIs and Microservices
+- 🌱 I’m currently learning and implementing .Net 8 and various architecture patterns for APIs and Microservices. 
 - 📫 How to reach me: Send me a message here!
 
 <!---
